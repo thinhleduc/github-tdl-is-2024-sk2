@@ -51,9 +51,9 @@ class Program {
 
             // Logika pro výpis řady - TO DO
             int current = first;
-            while(current >= last) {
+            while(current <= last) {
                 Console.WriteLine(current);
-                current =  current + step;
+                current = current + step;
             }
 
 
