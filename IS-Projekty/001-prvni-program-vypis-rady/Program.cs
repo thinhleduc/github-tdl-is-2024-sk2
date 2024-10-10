@@ -48,9 +48,13 @@ class Program {
             Console.WriteLine("Diference: {0}", step);
             Console.WriteLine();
             Console.WriteLine();
-            
 
             // Logika pro výpis řady - TO DO
+            int current = first;
+            while(current >= last) {
+                Console.WriteLine(current);
+                current =  current + step;
+            }
 
 
             // Opakování programu
