@@ -1,4 +1,4 @@
-# github-jn-is-2024-sk2
+# github-tdl-is-2024-sk2
 
 ## Změna provedená na lokalním počítači
 Datum a čas provedené změny 2024-09-26, 13:27
@@ -11,4 +11,4 @@ Datum a čas provedené změny 2024-10-02, 13:02
 
 ## Změna provedená přímo na GitHubu
 Datum a čas provedené změny 2024-10-02, 13:14
-Josef Najman
+Thinh Duc Le
