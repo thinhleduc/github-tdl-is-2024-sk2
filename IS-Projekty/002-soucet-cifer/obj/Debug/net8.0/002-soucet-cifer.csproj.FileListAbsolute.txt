@@ -1,0 +1,15 @@
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\bin\Debug\net8.0\002-soucet-cifer.exe
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\bin\Debug\net8.0\002-soucet-cifer.deps.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\bin\Debug\net8.0\002-soucet-cifer.runtimeconfig.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\bin\Debug\net8.0\002-soucet-cifer.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\bin\Debug\net8.0\002-soucet-cifer.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.sourcelink.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\refint\002-soucet-cifer.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\002-soucet-cifer.genruntimeconfig.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\002-soucet-cifer\obj\Debug\net8.0\ref\002-soucet-cifer.dll

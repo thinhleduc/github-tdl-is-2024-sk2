@@ -20,7 +20,6 @@ class Program {
             //Console.Write("Zadejte první číslo řady: ");
             //int first = int.Parse(Console.ReadLine());
 
-
             // Vstup od uživatele - lepší varianta
             Console.Write("Zadejte první číslo řady (celé číslo): ");
             int first;
@@ -56,7 +55,7 @@ class Program {
                 current = current + step;
             }
 
-
+            
             // Opakování programu
             Console.WriteLine("Pro opakování stiskněte klávesu a");
             again = Console.ReadLine();
