@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-zobrazovani-obrazcu\\003-zobrazovani-obrazcu.csproj": {}
+    "c:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-obdelnik\\003-obdelnik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-zobrazovani-obrazcu\\003-zobrazovani-obrazcu.csproj": {
+    "c:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-obdelnik\\003-obdelnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-zobrazovani-obrazcu\\003-zobrazovani-obrazcu.csproj",
-        "projectName": "003-zobrazovani-obrazcu",
-        "projectPath": "C:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-zobrazovani-obrazcu\\003-zobrazovani-obrazcu.csproj",
+        "projectUniqueName": "c:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-obdelnik\\003-obdelnik.csproj",
+        "projectName": "003-obdelnik",
+        "projectPath": "c:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-obdelnik\\003-obdelnik.csproj",
         "packagesPath": "C:\\Users\\adaml\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-zobrazovani-obrazcu\\obj\\",
+        "outputPath": "c:\\Users\\adaml\\OneDrive\\Plocha\\SKOLA\\IS\\cviko\\github-tdl-is-2024-sk2\\IS-Projekty\\003-obdelnik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adaml\\AppData\\Roaming\\NuGet\\NuGet.Config"
