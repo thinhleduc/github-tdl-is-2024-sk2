@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program002b-soucet-cifer", "program002b-soucet-cifer.csproj", "{BF219932-8DF1-4199-B1BB-34B02147930B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF219932-8DF1-4199-B1BB-34B02147930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF219932-8DF1-4199-B1BB-34B02147930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF219932-8DF1-4199-B1BB-34B02147930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF219932-8DF1-4199-B1BB-34B02147930B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF097096-CCF8-4C72-974C-9743D95D9CFA}
+	EndGlobalSection
+EndGlobal
