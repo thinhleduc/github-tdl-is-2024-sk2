@@ -48,10 +48,36 @@ class Program {
 
             Console.WriteLine("Náhodná čísla: ");
 
+            int positive = 0;
+            int negative = 0;
+            int zero = 0;
+            int even = 0;
+            int odd = 0;
+
             for(int i=0; i < n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0}; ", myArray[i]);
+                if (myArray[i] > 0) {
+                    positive++;
+                } else if (myArray[i] < 0) {
+                    negative++;
+                } else {
+                    zero++;
+                }
+                if (myArray[i] % 2 == 0) {
+                    even++;
+                } else {
+                    odd++;
+                }
             }
+
+            Console.WriteLine("\n\nPočet kladných čísel: {0}", positive);
+            Console.WriteLine("Počet záporných čísel: {0}", negative);
+            Console.WriteLine("Počet nulových čísel: {0}", zero);
+            Console.WriteLine("Počet sudých čísel: {0}", even);
+            Console.WriteLine("Počet lichých čísel: {0}", odd);
+
+
 
             // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
