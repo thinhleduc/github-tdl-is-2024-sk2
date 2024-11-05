@@ -1,0 +1,15 @@
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\bin\Debug\net8.0\program003c-obrazec2-ukol.exe
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\bin\Debug\net8.0\program003c-obrazec2-ukol.deps.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\bin\Debug\net8.0\program003c-obrazec2-ukol.runtimeconfig.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\bin\Debug\net8.0\program003c-obrazec2-ukol.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\bin\Debug\net8.0\program003c-obrazec2-ukol.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.sourcelink.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\refint\program003c-obrazec2-ukol.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\program003c-obrazec2-ukol.genruntimeconfig.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program003c-obrazec2-ukol\obj\Debug\net8.0\ref\program003c-obrazec2-ukol.dll

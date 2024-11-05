@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program003c-obrazec3-ukol/1.0.0": {
+        "runtime": {
+          "program003c-obrazec3-ukol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program003c-obrazec3-ukol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

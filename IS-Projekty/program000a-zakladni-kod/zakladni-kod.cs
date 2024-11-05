@@ -16,7 +16,7 @@ class Program {
             Console.WriteLine("**************************\n\n");
             Console.WriteLine();
 
-            // Vstup od uživatele - lepší varianta
+            // Vstup od uživatele 
             Console.Write("Zadejte první číslo řady (celé číslo): ");
             int first;
             while(!int.TryParse(Console.ReadLine(), out first)) {
