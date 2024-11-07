@@ -1,0 +1,15 @@
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.exe
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.deps.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.runtimeconfig.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.sourcelink.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\refint\program006-analyza-textu.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.genruntimeconfig.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\ref\program006-analyza-textu.dll
