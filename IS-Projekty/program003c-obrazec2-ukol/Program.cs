@@ -10,7 +10,7 @@ class Program {
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("**************************");
-            Console.WriteLine("******* Výpis řady *******");
+            Console.WriteLine("******* Obrazec 1  *******");
             Console.WriteLine("**************************");
             Console.WriteLine("****** Thinh Duc Le ******");
             Console.WriteLine("**************************\n\n");
