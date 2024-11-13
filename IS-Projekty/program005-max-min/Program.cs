@@ -55,29 +55,38 @@ class Program {
 
             // Nalezení maximálního a minimálního čísla a jejich pozice
             int max = myArray[0];
-            int min = myArray[0];
-            int maxIndex = 0;
-            int minIndex = 0;
+             int min = myArray[0];
+             int posMax = 0;
+             int posMin = 0;
+             int maxcount = 1;
+             int mincount = 1;
+             string maxpozice = " ";
+             string minpozice = " ";
 
-            for(int i=1 ; i < n; i++){
-                if(myArray[i] > max) {
+             for(int i=1 ; i < n; i++){
+                if(myArray[i] == max){
+                    maxcount++;
+                    maxpozice+= i+ "; ";
+                }
+                if(myArray[i] == min){
+                    mincount++;
+                    minpozice+= i+ "; ";
+                }
+                if(myArray[i] > max){
                     max = myArray[i];
-                    maxIndex = i;
+                    posMax = i;
                 }
-
-                if(myArray[i] < min) {
+                 if(myArray[i] < min){
                     min = myArray[i];
-                    minIndex = i;
+                    posMin = i;
                 }
-            }
-
-            // Výpis maximálního a minimálního čísla
-            Console.WriteLine("\n\nNejvyšší číslo: {0}", max);
-            Console.WriteLine("Nejnižší číslo: {0}", min);
-
-            // Výpis pozice maximálního čísla v poli
-            Console.WriteLine("\n\nPozice nejvyššího čísla: {0}", maxIndex);
-            Console.WriteLine("Pozice nejnižšího čísla: {0}", minIndex);
+             }  
+            Console.WriteLine("\nmaximální číslo: {0}", max +" má první pozici: " + posMax);
+            Console.WriteLine("minimální číslo: {0}", min +" má první pozici: " + posMin);
+            Console.WriteLine("maximální hodnota je zde : {0}x", maxcount);
+            Console.WriteLine("další maximální hodnoty jsou na pozicích: " +maxpozice);
+            Console.WriteLine("minimální hodnota je zde : {0}x", mincount);
+            Console.WriteLine("další minimální hodnoty jsou na pozicích: "+minpozice);
 
 
             // Opakování programu
