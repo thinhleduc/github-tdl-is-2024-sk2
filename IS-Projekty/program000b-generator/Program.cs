@@ -54,7 +54,7 @@ class Program {
             }
 
             // Opakování programu
-            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
     }   
