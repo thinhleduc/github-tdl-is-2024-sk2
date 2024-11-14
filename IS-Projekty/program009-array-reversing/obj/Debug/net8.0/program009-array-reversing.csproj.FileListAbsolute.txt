@@ -1,0 +1,15 @@
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.exe
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.deps.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.runtimeconfig.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfoInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfo.cs
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.sourcelink.json
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\refint\program009-array-reversing.dll
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.genruntimeconfig.cache
+C:\Users\adaml\OneDrive\Plocha\SKOLA\IS\cviko\github-tdl-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\ref\program009-array-reversing.dll
