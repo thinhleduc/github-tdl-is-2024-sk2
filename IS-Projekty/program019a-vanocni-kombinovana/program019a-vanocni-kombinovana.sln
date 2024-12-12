@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program019a-vanocni-kombinovana", "program019a-vanocni-kombinovana.csproj", "{37EFAC0F-C9A0-4D0D-84EF-2DFAA0305F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37EFAC0F-C9A0-4D0D-84EF-2DFAA0305F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EFAC0F-C9A0-4D0D-84EF-2DFAA0305F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EFAC0F-C9A0-4D0D-84EF-2DFAA0305F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EFAC0F-C9A0-4D0D-84EF-2DFAA0305F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D1FBC3-05B0-4C2C-A4F0-3B646D78FD81}
+	EndGlobalSection
+EndGlobal

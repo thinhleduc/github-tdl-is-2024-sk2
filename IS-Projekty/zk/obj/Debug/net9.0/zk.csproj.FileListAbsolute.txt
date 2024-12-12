@@ -1,0 +1,15 @@
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\bin\Debug\net9.0\zk.exe
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\bin\Debug\net9.0\zk.deps.json
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\bin\Debug\net9.0\zk.runtimeconfig.json
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\bin\Debug\net9.0\zk.dll
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\bin\Debug\net9.0\zk.pdb
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.AssemblyInfoInputs.cache
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.AssemblyInfo.cs
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.csproj.CoreCompileInputs.cache
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.sourcelink.json
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.dll
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\refint\zk.dll
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.pdb
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\zk.genruntimeconfig.cache
+C:\aaa\IS\github-tdl-is-2024-sk2\IS-Projekty\zk\obj\Debug\net9.0\ref\zk.dll
